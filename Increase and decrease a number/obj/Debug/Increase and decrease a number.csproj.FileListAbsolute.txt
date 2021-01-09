@@ -1,0 +1,10 @@
+C:\Users\mirce\source\repos\Increase and decrease a number\Increase and decrease a number\bin\Debug\Increase and decrease a number.exe.config
+C:\Users\mirce\source\repos\Increase and decrease a number\Increase and decrease a number\bin\Debug\Increase and decrease a number.exe
+C:\Users\mirce\source\repos\Increase and decrease a number\Increase and decrease a number\bin\Debug\Increase and decrease a number.pdb
+C:\Users\mirce\source\repos\Increase and decrease a number\Increase and decrease a number\obj\Debug\Increase and decrease a number.csprojAssemblyReference.cache
+C:\Users\mirce\source\repos\Increase and decrease a number\Increase and decrease a number\obj\Debug\Increase_and_decrease_a_number.Form1.resources
+C:\Users\mirce\source\repos\Increase and decrease a number\Increase and decrease a number\obj\Debug\Increase_and_decrease_a_number.Properties.Resources.resources
+C:\Users\mirce\source\repos\Increase and decrease a number\Increase and decrease a number\obj\Debug\Increase and decrease a number.csproj.GenerateResource.cache
+C:\Users\mirce\source\repos\Increase and decrease a number\Increase and decrease a number\obj\Debug\Increase and decrease a number.csproj.CoreCompileInputs.cache
+C:\Users\mirce\source\repos\Increase and decrease a number\Increase and decrease a number\obj\Debug\Increase and decrease a number.exe
+C:\Users\mirce\source\repos\Increase and decrease a number\Increase and decrease a number\obj\Debug\Increase and decrease a number.pdb
